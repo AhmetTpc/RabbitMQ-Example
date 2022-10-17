@@ -1,4 +1,4 @@
-# Basic RabbitMQ Example
+# RabbitMQ Example
 
 This Repo is basic RabbitMQ example. This Repo help to understand how to work RabbitMQ.
 
